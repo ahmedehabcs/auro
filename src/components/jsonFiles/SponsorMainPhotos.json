@@ -1,0 +1,256 @@
+[
+  {
+    "id": 1,
+    "avatarFallback": "DD",
+    "title": "DR dina",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "19,367", "label": "Post Engagements" },
+      { "value": "EGP 0.0258", "label": "Cost per Post Engagement" },
+      { "value": "EGP 500.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 2,
+    "avatarFallback": "SY",
+    "title": "syria",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "45,018", "label": "Post Engagements" },
+      { "value": "EGP 0.0111", "label": "Cost per Post Engagement" },
+      { "value": "EGP 500.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 3,
+    "avatarFallback": "DI",
+    "title": "Dif",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "11,124", "label": "Post Engagements" },
+      { "value": "EGP 0.0225", "label": "Cost per Post Engagement" },
+      { "value": "EGP 250.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 4,
+    "avatarFallback": "VO",
+    "title": "Vos",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "449", "label": "Messaging Conversations Started" },
+      { "value": "EGP 2.23", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 1,000.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 5,
+    "avatarFallback": "NO",
+    "title": "Noura",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "628", "label": "Messaging Conversations Started" },
+      { "value": "EGP 3.18", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 2,000.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 6,
+    "avatarFallback": "AB",
+    "title": "Abdo",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "719", "label": "Messaging Conversations Started" },
+      { "value": "EGP 3.48", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 2,500.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 7,
+    "avatarFallback": "SH",
+    "title": "Share",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "113", "label": "Messaging Conversations Started" },
+      { "value": "EGP 3.54", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 400.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 8,
+    "avatarFallback": "AL",
+    "title": "Allura",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "156", "label": "Messaging Conversations Started" },
+      { "value": "EGP 3.21", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 500.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 9,
+    "avatarFallback": "SS",
+    "title": "Shawerma syria",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "234", "label": "Messaging Conversations Started" },
+      { "value": "EGP 4.27", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 1,000.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 10,
+    "avatarFallback": "BR",
+    "title": "Brush",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "37,424", "label": "Post Engagements" },
+      { "value": "EGP 0.00534", "label": "Cost per Post Engagement" },
+      { "value": "EGP 200.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 11,
+    "avatarFallback": "ED",
+    "title": "El Dif",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "20,835", "label": "Post Engagements" },
+      { "value": "EGP 0.0192", "label": "Cost per Post Engagement" },
+      { "value": "EGP 400.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 12,
+
+    "avatarFallback": "SS",
+    "title": "Shawerma syria",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "205", "label": "Messaging Conversations Started" },
+      { "value": "EGP 2.44", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 500.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 13,
+    "avatarFallback": "CH",
+    "title": "Chusco",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "386", "label": "Messaging Conversations Started" },
+      { "value": "EGP 3.24", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 1,249.78", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 14,
+    "avatarFallback": "VO",
+    "title": "Vos",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "823", "label": "Messaging Conversations Started" },
+      { "value": "EGP 2.43", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 2,000.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 15,
+    "avatarFallback": "CH",
+    "title": "Chusco",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "499", "label": "Messaging Conversations Started" },
+      { "value": "EGP 2.80", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 1,399.69", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 16,
+    "avatarFallback": "PE",
+    "title": "PEAK",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "23,129", "label": "Post Engagements" },
+      { "value": "EGP 0.0216", "label": "Cost per Post Engagement" },
+      { "value": "EGP 500.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 17,
+    "avatarFallback": "NE",
+    "title": "Ne3ma",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "169", "label": "Messaging Conversations Started" },
+      { "value": "EGP 4.14", "label": "Cost per Messaging Conversation" },
+      { "value": "EGP 700.00", "label": "Spent" }
+    ]
+  },
+  {
+    "id": 18,
+
+    "avatarFallback": "ED",
+    "title": "El Dif",
+    "sub": {
+      "status": "Completed",
+      "objective": "Engagement"
+    },
+    "metrics": [
+      { "value": "24,147", "label": "Post Engagements" },
+      { "value": "EGP 0.0248", "label": "Cost per Post Engagement" },
+      { "value": "EGP 599.97", "label": "Spent" }
+    ]
+  }
+]

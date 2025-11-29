@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "src": "/images/tijan/tijanMain.jpg",
+    "alt": "tijan",
+    "desc": "Tijan shares useful insights and tips about dental care and modern dentist tools and techniques."
+  },
+  {
+    "id": 1,
+    "src": "/images/plata/plataMain.png",
+    "alt": "plata",
+    "desc": "Plata explores Islamic landmarks and shares meaningful experiences from Qabaa and spiritual travel journeys."
+  },
+  {
+    "id": 2,
+    "src": "/images/sherif/sherifMain.jpg",
+    "alt": "sherif",
+    "desc": "Sherif talks about creative ceramic designs, useful materials, and how ceramics improve everyday life."
+  },
+  {
+    "id": 3,
+    "src": "/images/sweden/swedenMain.jpg",
+    "alt": "sweden",
+    "desc": "This image shows Sweden's top-quality truck parts used by mechanics and drivers across the country."
+  },
+  {
+    "id": 4,
+    "src": "/images/DrSherif/DrSherifMain.jpg",
+    "alt": "DrSherif",
+    "desc": "Dr. Sherif explains how to stay healthy, eat well, and take care of your body."
+  },
+  {
+    "id": 5,
+    "src": "/Data/Mix/ART......jpg",
+    "alt": "DrSherif",
+    "desc": "Art is for making songs and musical creations."
+  },
+  {
+    "id": 6,
+    "src": "/Data/Beauty/hadeer-fahmy5.jpg",
+    "alt": "DrSherif",
+    "desc": "Beauty salon services for hair, skin, and personal care."
+  },
+  {
+    "id": 7,
+    "src": "/Data/Factory/swiss taste 10.jpg",
+    "alt": "DrSherif",
+    "desc": "Swiss Taste offers a variety of chocolates in Saudi Arabia."
+  },
+  {
+    "id": 8,
+    "src": "/Data/Factory/inbox3.jpg",
+    "alt": "DrSherif",
+    "desc": "Inbox specializes in breakfast items and order making."
+  },
+  {
+    "id": 9,
+    "src": "/Data/Factory/Drinks/ice3.jpg",
+    "alt": "DrSherif",
+    "desc": "Sun Juice prepares juices with different flavors."
+  },
+  {
+    "id": 10,
+    "src": "/Data/Auro/Prayer/plata-j2.jpg",
+    "alt": "DrSherif",
+    "desc": "Plata prepares Hej and Omraa services in Saudi Arabia."
+  },
+  {
+    "id": 11,
+    "src": "/Data/Doctor/coming-soon3.jpg",
+    "alt": "DrSherif",
+    "desc": "Tijan is a dental clinic offering oral care services."
+  }
+]

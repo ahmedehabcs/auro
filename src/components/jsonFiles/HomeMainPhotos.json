@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "src": "/homeImage/design.jpg",
+    "title": "Design",
+    "alt": "Design",
+    "desc": "🎨 Beautiful designs that shine with creativity and give your brand a unique vibe."
+  },
+  {
+    "id": 1,
+    "src": "/homeImage/reel.jpg",
+    "alt": "Videos",
+    "title": "Videos",
+    "desc": "🎬 Fun and engaging videos that tell your story in the sweetest way possible."
+  },
+  {
+    "id": 2,
+    "src": "/homeImage/sponsor.jpg",
+    "alt": "Sponsors",
+    "title": "Sponsors",
+    "desc": "🤝 Lovely sponsorship ideas that spread your brand and create happy connections."
+  }
+]
